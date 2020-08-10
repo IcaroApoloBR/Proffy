@@ -78,3 +78,6 @@ $ yarn install
 $ yarn start
 ```
 After read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
+
+## :memo: License
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
