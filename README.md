@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
 <h2 align="center">
     <br>Next Level Week #2 by Rocketseat <br/>
 </h2>
@@ -8,18 +11,25 @@
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 
+# :pushpin: Table of Contents
+* [Web Screenshot](#web-screenshot)   
+* [Mobile Screenshot](#mobile-screenshot)
+* [Technologies](#rocket-technologies)
+* [How to Run](#construction_worker-how-to-run)
+* [License](#memo-license)
+
 ### Web Screenshot
 <div>
-   <img src="./.github/web.PNG" width="400px">
-   <img src="./.github/web1.PNG" width="400px">
-   <img src="./.github/web2.PNG" width="400px">
+   <img src="./.github/web.PNG" width="600px">
+   <img src="./.github/web1.PNG" width="600px">
+   <img src="./.github/web2.PNG" width="600px">
 </div>
 
 ### Mobile Screenshot
 <div>
-   <img src="./.github/mobile.jpeg" width="180">
-   <img src="./.github/mobile1.jpeg" width="180">
-   <img src="./.github/mobile2.jpeg" width="180">
+   <img src="./.github/mobile.jpeg" width="200">
+   <img src="./.github/mobile1.jpeg" width="200">
+   <img src="./.github/mobile2.jpeg" width="200">
 </div>
 
 ## :rocket: Technologies
