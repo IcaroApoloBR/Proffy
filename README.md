@@ -1,14 +1,26 @@
-<h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" width="250px" />
-    <br>Next Level Week #2<br/>
-    Node.js | ReactJS | React Native
-</h1>
+<h2 align="center">
+    <br>Next Level Week #2 by Rocketseat <br/>
+</h2>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
+
+### Web Screenshot
+<div>
+   <img src="./.github/web.PNG" width="400px">
+   <img src="./.github/web1.PNG" width="400px">
+   <img src="./.github/web2.PNG" width="400px">
+</div>
+
+### Mobile Screenshot
+<div>
+   <img src="./.github/mobile.jpeg" width="180">
+   <img src="./.github/mobile1.jpeg" width="180">
+   <img src="./.github/mobile2.jpeg" width="180">
+</div>
 
 ## :rocket: Technologies
 
